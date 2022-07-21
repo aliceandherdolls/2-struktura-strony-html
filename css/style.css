@@ -1,0 +1,29 @@
+body {
+    margin: 0.5cm;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.main-navigation {
+    background-color: aliceblue;
+}
+
+.main {
+    background-color: peachpuff;
+    margin-bottom: 0.5cm;
+}
+
+.thingsabout {
+    background-color: lightcoral;
+    margin-bottom: 0.5cm;
+}
+
+
+address {
+    background-color: rgb(132, 173, 132);
+    margin-bottom: 0.5cm;
+}
+
+footer {
+    background-color: gainsboro;
+}
